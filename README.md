@@ -1,4 +1,4 @@
-# Cronos WordPress Plugin
+# Cronos Task Manager
 
 ## Overview
 
