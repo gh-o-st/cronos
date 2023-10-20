@@ -18,7 +18,7 @@ The Cronos plugin is a task manager for WordPress websites, designed to enhance 
 
 To install the Cronos plugin, follow these straightforward steps:
 
-1. Download the plugin ZIP file from the [Cronos GitHub repository](https://github.com/your-plugin-repo) or the [WordPress Plugin Directory](https://wordpress.org/plugins/cronos/).
+1. Download the plugin ZIP file from the [Cronos GitHub repository](https://github.com/cronos) or the [WordPress Plugin Directory](https://wordpress.org/plugins/cronos/).
 
 2. Log in to your WordPress admin dashboard.
 
@@ -72,16 +72,18 @@ Yes, Cronos provides a user-friendly interface for adding custom tasks with spec
 
 ## Support and Feedback
 
-If you encounter any issues, have questions, or would like to provide feedback, please visit our [support forum](https://your-plugin-support-forum) or contact us at [support@your-plugin-email.com](mailto:support@your-plugin-email.com).
+If you encounter any issues, have questions, or would like to provide feedback, please submit an [issue](https://github.com/gh-o-st/cronos/issues) on GitHub.
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to get involved in the development of Cronos, please check out our [GitHub repository](https://github.com/your-plugin-repo) for more information on how to contribute.
+We welcome contributions from the community! If you'd like to get involved in the development of Cronos, please check out our [GitHub repository](https://github.com/cronos) for more information on how to contribute.
 
 ## License
 
-Cronos is released under the [GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) license.
+Cronos is released under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) license.
 
 ---
 
-Thank you for choosing Cronos! With automated task management, secure API integration, and optional custom task addition, we aim to simplify and enhance wp-cron task execution for your WordPress site while prioritizing your data security and privacy. If you have any suggestions for improvements or feature requests, please don't hesitate to reach out.
+## Data Privacy
+
+At Cronos, we take data privacy very seriously. Unlike many other services, our approach is unique because we DON'T want your data. Your privacy is of utmost importance to us, and we have designed our plugin to minimize data collection and transmission. We only handle essential information required for task management, such as scheduling details and job counts. Rest assured that no personally identifiable information (PII) is collected or stored. Your data stays yours, and your privacy is respected.
