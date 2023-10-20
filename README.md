@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Cronos plugin is a task manager for WordPress websites, designed to enhance the reliability and punctuality of wp-cron task execution. It operates seamlessly in the background, automatically monitoring and optimizing task execution without requiring extensive user configuration. Users can also integrate Cronos with their API by providing an API key and enjoy secure communication. Additionally, users have the option to add custom tasks via the plugin's user interface.
+The Cronos plugin is a task manager for WordPress websites, designed to enhance the reliability and punctuality of wp-cron task execution. It operates seamlessly in the background, automatically monitoring and optimizing task execution without requiring extensive user configuration. Additionally, users have the option to add custom tasks via the plugin's user interface.
 
 ## Features
 
