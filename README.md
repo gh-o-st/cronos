@@ -10,7 +10,7 @@ The Cronos plugin is a task manager for WordPress websites, designed to enhance 
 
 - **Secure API Integration**: Users can effortlessly integrate Cronos with their API by providing an API key, and all data communication between the site and API is secured. Any stored job data on the API server is encrypted with a keypair, with only the user's site having access to the private key.
 
-- **Minimal Data Transmission**: Cronos prioritizes user privacy and security. It only transmits essential data, such as the site's homepage URL stored in the options table, the frequency with which to run the job, and the iteration count (how many times to run the job total). No personally identifiable information (PII) is sent.
+- **Minimal Data Transmission**: Cronos prioritizes user privacy and security. It only transmits essential data, such as your API key, the site's URL, the task's schedule, and how many times to run it. No personally identifiable information (PII) is sent.
 
 - **Custom Task Addition**: For users who want additional control, Cronos provides a user-friendly interface to add custom tasks with specific scheduling requirements if needed.
 
@@ -84,6 +84,5 @@ Cronos is released under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.h
 
 ---
 
-## Data Privacy
 
-At Cronos, we take data privacy very seriously. Unlike many other services, our approach is unique because we DON'T want your data. Your privacy is of utmost importance to us, and we have designed our plugin to minimize data collection and transmission. We only handle essential information required for task management, such as scheduling details and job counts. Rest assured that no personally identifiable information (PII) is collected or stored. Your data stays yours, and your privacy is respected.
+At Cronos, we take data privacy very seriously. Unlike many other services, our approach is unique because we DON'T want your data.
